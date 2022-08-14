@@ -12,4 +12,4 @@ A linux shell coded from scratch for a class project. It implements functionalit
 6. Built-in commands such as jobs, cd, history, exit and kill, <br>
 7. Finally, a graceful exit by notifying the user which background processes are running. <br>
 
-PS. For a better view of the project, refer to the report attached.
+PS. For detailed explanation of the project, refer to the attached report.
